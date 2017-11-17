@@ -1,0 +1,13 @@
+E:\Backup New\Projects\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe
+E:\Backup New\Projects\MyPlayer\MyPlayer\bin\Debug\MyPlayer.pdb
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csprojResolveAssemblyReference.cache
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.frmMyPlayer.resources
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.Properties.Resources.resources
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.GenerateResource.Cache
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.pdb
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\Interop.WMPLib.dll
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\Backup New\Projects\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.ResolveComReference.cache
+E:\Backup New\Projects\MyPlayer\MyPlayer\bin\Debug\Interop.WMPLib.dll
+E:\Backup New\Projects\MyPlayer\MyPlayer\bin\Debug\AxInterop.WMPLib.dll

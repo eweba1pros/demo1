@@ -1,0 +1,29 @@
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\bin\Debug\MyPlayer.pdb
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\obj\Debug\SoftwareVideoWatch.csproj.ResolveComReference.cache
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\obj\Debug\MyPlayer.frmMyPlayer.resources
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\obj\Debug\MyPlayer.Properties.Resources.resources
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\obj\Debug\SoftwareVideoWatch.csproj.GenerateResource.Cache
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe
+C:\Users\eweb\Downloads\MyPlayer\MyPlayer\MyPlayer\obj\Debug\MyPlayer.pdb
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\obj\Debug\Interop.WMPLib.dll
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\obj\Debug\SoftwareVideoWatch.csproj.ResolveComReference.cache
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\obj\Debug\MyPlayer.pdb
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\obj\Debug\SoftwareVideoWatch.csprojResolveAssemblyReference.cache
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\obj\Debug\MyPlayer.frmMyPlayer.resources
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\obj\Debug\MyPlayer.Properties.Resources.resources
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\obj\Debug\SoftwareVideoWatch.csproj.GenerateResource.Cache
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe.manifest
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\bin\Debug\MyPlayer.application
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\bin\Debug\MyPlayer.pdb
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\bin\Debug\Interop.WMPLib.dll
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe.manifest
+D:\nopcommerce\App_Data\am\Amritpal new data\Project\MyPlayer\MyPlayer\MyPlayer\MyPlayer\obj\Debug\MyPlayer.application
